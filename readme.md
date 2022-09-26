@@ -8,7 +8,7 @@
 
 ## Key Learnings from the project
 
-- _Learned that flex box can be applied in every divor or section etc._
+- _Learned that flex box can be applied in every div or section etc._
 - _Learned to use IDs instead of classes._
 
 ---
@@ -23,6 +23,6 @@
 
 ---
 
-## [Live-Link](https://project-5-crypto-landing-page.netlify.app//)
+## [Live-Link](https://project-6-plat-home-page.netlify.app/)
 
 ---
